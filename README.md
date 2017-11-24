@@ -22,6 +22,5 @@
 
 ![Sin titulo](assets/image/github/navGlobalLocal.png) 
 
-
-
+![Sin titulo](assets/image/github/facetada.png) 
 
