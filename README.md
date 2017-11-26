@@ -24,7 +24,6 @@
 
 ![Sin titulo](assets/image/github/facetada.png) 
 
-
 ![Sin titulo](assets/image/github/navLinea.png) 
 
 ![Sin titulo](assets/image/github/navLinea2.png) 
@@ -32,7 +31,6 @@
 ![Sin titulo](assets/image/github/navGlobal.png) 
 
 ![Sin titulo](assets/image/github/navLocal.png) 
-
 
 ![Sin titulo](assets/image/github/navGlobalContextual.png) 
 
@@ -42,4 +40,14 @@
 
 ![Sin titulo](assets/image/github/facetada2.png) 
 
+# Medium
 
+![Sin titulo](assets/image/medium/header.png) 
+
+![Sin titulo](assets/image/medium/navContextual.png) 
+
+![Sin titulo](assets/image/medium/facetadaContextual.png) 
+
+![Sin titulo](assets/image/medium/navglobal.png) 
+
+![Sin titulo](assets/image/medium/navContextual2.png) 
